@@ -39,8 +39,8 @@ This model uses a more advanced architecture for sequence processing:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repo-url>
-    cd <repository-name>
+    git clone https://github.com/ArashNasrEsfahani/N-Gram-BiGRU-for-Multilingual-Language-Identification
+    cd N-Gram-BiGRU-for-Multilingual-Language-Identification
     ```
 
 2.  **Create a virtual environment and install dependencies:**
